@@ -1,0 +1,50 @@
+*,*:before, *:after{
+  box-sizing: border-box;
+}
+html{
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+}
+body{
+  font-size: 24px;
+  font-family: 'Lato', sans-serif;
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+  color:  #261f0f;
+  text-transform: uppercase;
+}
+.container{
+  width: 100%;
+  max-width: 1200px;
+  margin: auto;
+}
+.logo{
+  width: 76px;
+  height: 82px;
+}
+.header__logo{
+  display: flex;
+  align-items: center;
+}
+.header__logo-left{
+  margin-right: 12px;
+}
+.right__car{
+  font-weight: bold;
+}
+.right__expert{
+  display: flex;
+  align-items: center;
+}
+.expert{
+  color:#00adff;
+  font-weight: bold;
+}
+.platform{
+  font-size: 8px;
+  margin-left: 5px;
+  max-width: 50px;
+}
