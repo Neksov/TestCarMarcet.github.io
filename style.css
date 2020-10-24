@@ -34,6 +34,7 @@ body{
 }
 .right__car{
   font-weight: bold;
+  letter-spacing: 3px;
 }
 .right__expert{
   display: flex;
@@ -42,6 +43,7 @@ body{
 .expert{
   color:#00adff;
   font-weight: bold;
+  letter-spacing: 1px;
 }
 .platform{
   font-size: 8px;
