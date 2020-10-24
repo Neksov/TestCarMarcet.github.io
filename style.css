@@ -33,8 +33,9 @@ body{
   margin-right: 12px;
 }
 .right__car{
-  font-weight: bold;
+  font-weight: 900;
   letter-spacing: 3px;
+  line-height: 20px;
 }
 .right__expert{
   display: flex;
